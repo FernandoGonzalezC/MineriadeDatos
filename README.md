@@ -11,3 +11,6 @@
 
 
 [Base de datos sobre las Reglas de asociacion](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Base%20de%20Datos.csv)
+
+
+[Ejercicios 1](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicios1_002.pdf)
