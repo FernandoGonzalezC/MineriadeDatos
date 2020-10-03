@@ -20,3 +20,6 @@
 
 
 [Programa en Python de Ejercicio 1 Reglas de asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb)
+
+
+[Mapa mental 2]
