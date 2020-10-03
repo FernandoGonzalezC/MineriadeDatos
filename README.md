@@ -23,3 +23,6 @@
 
 
 [Mapa mental 2](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/MapaMental_2_1819011.pdf)
+
+
+[Resumenes](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Resumenes_1819011.pdf)
