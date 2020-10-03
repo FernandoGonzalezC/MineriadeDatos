@@ -22,4 +22,4 @@
 [Programa en Python de Ejercicio 1 Reglas de asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb)
 
 
-[Mapa mental 2]
+[Mapa mental 2](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/MapaMental_2_1819011.pdf)
