@@ -26,3 +26,8 @@
 
 
 [Resumenes](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Resumenes_1819011.pdf)
+
+
+## Fase 2
+
+[Ejercicio práctico de Bases de datos]
