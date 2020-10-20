@@ -31,3 +31,6 @@
 ## Fase 2
 
 [Ejercicio práctico de Bases de datos](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/AnalisisBD_1819011.pdf)
+
+
+[Python Basico]
