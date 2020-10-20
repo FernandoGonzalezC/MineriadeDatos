@@ -33,4 +33,4 @@
 [Ejercicio práctico de Bases de datos](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/AnalisisBD_1819011.pdf)
 
 
-[Python Basico]
+[Python Basico](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/PythonBasico_1819011.ipynb)
