@@ -34,3 +34,6 @@
 
 
 [Ejercicios Python Basico](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/PythonBasico_1819011.ipynb)
+
+
+[Avance 1 PIA](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Avance1-PIA_Equipo11_002.pdf)
