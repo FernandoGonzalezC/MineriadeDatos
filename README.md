@@ -37,3 +37,6 @@
 
 
 [Avance 1 PIA](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Avance1-PIA_Equipo11_002.pdf)
+
+
+[Ejercicios Practicas Mineria](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPracticasMineriadeDatos_Equipo11.ipynb)
