@@ -41,4 +41,4 @@
 
 ## Fase 3
 
-[Ejercicios Practicas Mineria](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPracticasMineriadeDatos_Equipo11.ipynb)
+[Ejercicios Python Mineria de datos](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPythonMineriadeDatos_Equipo11_002.ipynb)
