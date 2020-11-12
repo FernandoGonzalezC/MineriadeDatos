@@ -42,3 +42,6 @@
 ## Fase 3
 
 [Ejercicios Python Mineria de datos](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPythonMineriadeDatos_Equipo11_002.ipynb)
+
+
+[Avance 2 PIA](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/AvancePIA_II_Gpo002_Equipo11.ipynb)
