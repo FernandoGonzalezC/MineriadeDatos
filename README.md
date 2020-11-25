@@ -45,3 +45,10 @@
 
 
 [Avance 2 PIA](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/AvancePIA_II_Gpo002_Equipo11.ipynb)
+
+
+#### PIA
+
+* [Póster]()
+
+* [Programa](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/ClasificacionHongos_PIA_MineriaDatos.ipynb)
