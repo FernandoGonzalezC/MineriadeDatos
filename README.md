@@ -49,6 +49,6 @@
 
 #### PIA
 
-* [Póster]()
+* [Póster](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/PosterPIA_Miner%C3%ADa_Datos_Equipo11.pdf)
 
 * [Programa](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/ClasificacionHongos_PIA_MineriaDatos.ipynb)
